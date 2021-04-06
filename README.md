@@ -45,4 +45,4 @@ my works
 -----------------------------------
 ![trophy](https://github-profile-trophy.vercel.app/?username=hedrall)]
 ![Hedrall's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedrall&count_private=true&show_icons=true&theme=dracula)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedrall&hide=css,html&theme=dracula)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedrall&hide=css,html&count_private=true&theme=dracula&langs_count=8&layout=compact)
