@@ -42,6 +42,7 @@ my works
 - Vue, Nuxt.js
 - Angular, Ionic
 
+-----------------------------------
 ![trophy](https://github-profile-trophy.vercel.app/?username=hedrall)]
-
-
+![Hedrall's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedrall&count_private=true&show_icons=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedrall&hide=css,html)
