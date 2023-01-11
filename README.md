@@ -32,6 +32,7 @@ Web Engineer, in Japan Tokyo, work for major media company.
 - [Zenn](https://zenn.dev/hedrall)
 
 my works
+- [tanelog](https://tanelog.hedrall.work/) (review of seedlings)
 - [future-cast](https://future-cast.jp)
 
 ### Interest
