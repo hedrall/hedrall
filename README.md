@@ -39,9 +39,10 @@ my works
 
 - AWS CDK
 - TypeScript
-- React, Next.js
-- Vue, Nuxt.js
-- Angular, Ionic
+- esbuild, vite
+- CleanArchitecture, DDD
+- React (Next.js)
+- OpenAPI
 
 -----------------------------------
 ![trophy](https://github-profile-trophy.vercel.app/?username=hedrall)]
