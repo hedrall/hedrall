@@ -25,7 +25,7 @@
   href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 </a>
 
-Web Engineer, in Japan Tokyo, work for medical system startup.
+A Web Engineer in Tokyo, Japan, working at a startup developing customer support platforms.
 
 - [Blog](https://blog.hedrall.work)
 - [Qiita](https://qiita.com/hedrall)
